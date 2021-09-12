@@ -25,4 +25,5 @@ The files in this folder contain everything you need to run your app:
 * `assets` - This is a directory with all the asset files (pictures and sounds)
   that you uploaded in applab.
 
-![app](https://i.imgur.com/6th4DkN.png)
+![image_2021-09-12_122955](https://i.imgur.com/6th4DkN.png)
+
